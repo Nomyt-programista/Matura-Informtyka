@@ -77,4 +77,3 @@ zad_42()
 zad_43()
 
 #12:35 
-# 2 podpowiedzi
